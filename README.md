@@ -35,8 +35,8 @@ I work as a Resource Technologist at the University of Pennsylvania's Institute 
 
 See also:
 
-cytometry-r
-integrated-cytometry-analysis
+cytometry-r ; 
+integrated-cytometry-analysis ; 
 python-r-fundamentals
 
 License:
